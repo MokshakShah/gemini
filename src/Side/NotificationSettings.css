@@ -1,0 +1,19 @@
+.notification-settings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    width:100%;
+    
+}
+
+.notification-settings h3 {
+    color: #007BFF;
+    margin-bottom: 10px;
+}
+
+.notification-settings input[type="checkbox"] {
+    margin-right: 10px;
+}
